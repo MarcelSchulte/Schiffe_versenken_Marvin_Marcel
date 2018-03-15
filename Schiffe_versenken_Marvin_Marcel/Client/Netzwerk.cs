@@ -10,14 +10,14 @@ using System.Runtime.Serialization.Formatters.Binary;
 using System.IO;
 using System.Security.Cryptography;
 
-namespace ClientMonitoring
+namespace Client
 {
     public static class Netzwerk
     {
         public static AsyncTcpClient client;
         private static bool connect;
 
-        public static void Connect(IPv4Address.IPv4AddressTextBox txtip, TextBox txtport)
+        public static void Connect(TextBox txtip, TextBox txtport)
         {
             client = new AsyncTcpClient();
             IPAddress address = IPAddress.Parse(txtip.Text);

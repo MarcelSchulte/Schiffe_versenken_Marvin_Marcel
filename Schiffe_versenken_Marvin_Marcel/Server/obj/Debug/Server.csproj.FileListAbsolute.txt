@@ -1,0 +1,10 @@
+C:\Users\marce\Documents\Fächer\Fächer\Proggen\Programme\Schiffe_versenken_Marvin_Marcel\Schiffe_versenken_Marvin_Marcel\Server\obj\Debug\Server.frmServer.resources
+C:\Users\marce\Documents\Fächer\Fächer\Proggen\Programme\Schiffe_versenken_Marvin_Marcel\Schiffe_versenken_Marvin_Marcel\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\marce\Documents\Fächer\Fächer\Proggen\Programme\Schiffe_versenken_Marvin_Marcel\Schiffe_versenken_Marvin_Marcel\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\marce\Documents\Fächer\Fächer\Proggen\Programme\Schiffe_versenken_Marvin_Marcel\Schiffe_versenken_Marvin_Marcel\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\marce\Documents\Fächer\Fächer\Proggen\Programme\Schiffe_versenken_Marvin_Marcel\Schiffe_versenken_Marvin_Marcel\Server\bin\Debug\Server.exe.config
+C:\Users\marce\Documents\Fächer\Fächer\Proggen\Programme\Schiffe_versenken_Marvin_Marcel\Schiffe_versenken_Marvin_Marcel\Server\bin\Debug\Server.exe
+C:\Users\marce\Documents\Fächer\Fächer\Proggen\Programme\Schiffe_versenken_Marvin_Marcel\Schiffe_versenken_Marvin_Marcel\Server\bin\Debug\Server.pdb
+C:\Users\marce\Documents\Fächer\Fächer\Proggen\Programme\Schiffe_versenken_Marvin_Marcel\Schiffe_versenken_Marvin_Marcel\Server\obj\Debug\Server.exe
+C:\Users\marce\Documents\Fächer\Fächer\Proggen\Programme\Schiffe_versenken_Marvin_Marcel\Schiffe_versenken_Marvin_Marcel\Server\obj\Debug\Server.pdb
+C:\Users\marce\Documents\Fächer\Fächer\Proggen\Programme\Schiffe_versenken_Marvin_Marcel\Schiffe_versenken_Marvin_Marcel\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache

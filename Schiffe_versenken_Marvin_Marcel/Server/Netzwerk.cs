@@ -20,7 +20,7 @@ namespace Server
         public static AsyncTcpServer server;
         private static Label lblClients;
        
-        public static void Starten(IPv4Address.IPv4AddressTextBox txtip, TextBox txtport, Label lblstatus, Label lblclients)
+        public static void Starten(TextBox txtip, TextBox txtport, Label lblstatus, Label lblclients)
         {
             lblClients = lblclients;
 
